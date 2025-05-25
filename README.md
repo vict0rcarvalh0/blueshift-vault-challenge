@@ -43,21 +43,21 @@ The test suite is written in TypeScript using the Anchor framework and is locate
 
 1. Clone the repository:
 ```bash
-    git clone https://github.com/vict0rcarvalh0/blueshift-vault-challenge.git
-    cd blueshift-vault-challenge
+git clone https://github.com/vict0rcarvalh0/blueshift-vault-challenge.git
+cd blueshift-vault-challenge
 ```
 
 2. Build the Solana Program:
 ```bash
-    anchor build
+anchor build
 ```
 
 3. Run the tests:
 ```bash
-    anchor test
+anchor test
 ```
 
 The tests output should look like this:
 <p align="center">
-    <img src=".assets/testevidence.png" alt="Tests evidence">
+    <img src="./assets/testevidence.png" alt="Tests evidence">
 </p>
