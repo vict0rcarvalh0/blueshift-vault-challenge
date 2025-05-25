@@ -2,7 +2,7 @@ use anchor_lang::prelude::*;
 use anchor_lang::system_program::{transfer, Transfer};
 
 // Declare the program ID for this Solana program
-declare_id!("FMQ5TEzxhU4izRbbZimqZW9kTKJnKrs138fgkjhvML2Y");
+declare_id!("22222222222222222222222222222222222222222222");
 
 #[program]
 pub mod blueshift_vault_challenge {

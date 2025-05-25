@@ -6,7 +6,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-blueshift_vault_challenge = "FMQ5TEzxhU4izRbbZimqZW9kTKJnKrs138fgkjhvML2Y"
+blueshift_vault_challenge = "22222222222222222222222222222222222222222222"
 
 [registry]
 url = "https://api.apr.dev"
